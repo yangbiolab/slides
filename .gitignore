@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+*.local
+.remote-assets
+components.d.ts
+netlify.toml  
+package-lock.json  
+pages      
+vercel.json
+components  
+node_modules  
+package.json       
+*zip
+.npmrc
+
